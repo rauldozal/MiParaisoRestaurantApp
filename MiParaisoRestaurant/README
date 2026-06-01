@@ -1,0 +1,9 @@
+Mi Paraiso Restaurant Ordering App
+
+SwiftUI ordering app created for Mobile App Development.
+
+Features:
+- Food and drink ordering
+- Quantity selection using state
+- Total price calculation
+- Confirmation
